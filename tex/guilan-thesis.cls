@@ -141,12 +141,12 @@
 \gdef\@gradrepname{}\gdef\@gradreprank{}\gdef\@gradrepgroup{}
 
 % ALSO set defaults for these optional ones if you test \empty:
-\gdef\@secondsupervisor{}
-\gdef\@firstadvisor{}
-\gdef\@secondadvisor{}
-\gdef\@internaljudge{}
-\gdef\@externaljudge{}
-\gdef\@externaljudgeuniversity{}
+% \gdef\@secondsupervisor{}
+% \gdef\@firstadvisor{}
+% \gdef\@secondadvisor{}
+% \gdef\@internaljudge{}
+% \gdef\@externaljudge{}
+% \gdef\@externaljudgeuniversity{}
 \gdef\@graduatedeputy{}
 \gdef\@graduatedeputyrank{}
 \gdef\@secondsupervisorrank{}
